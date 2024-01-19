@@ -4,8 +4,14 @@
 }
 
 table, th, td {
-  height: 50%;
-  border: 1px solid black;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
 }
 
 img {
@@ -42,6 +48,9 @@ span {
 }
 
 .class {
-  width: 15%;
+  width: 10%;
 }
 
+#avbo {
+  width: 50%;
+}
