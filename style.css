@@ -1,3 +1,47 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
 table, th, td {
-    border: 1px solid black;
-  }
+  height: 50%;
+  border: 1px solid black;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+ul {
+  text-align: left;
+  list-style-type: square;
+  line-height: 50px;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+span {
+  text-decoration: underline;
+  background-color: yellow;
+}
+
+#info {
+  color: red;
+}
+
+#ele {
+  color: blue;
+}
+
+#mec {
+  color: yellow;
+}
+
+.class {
+  width: 15%;
+}
+
