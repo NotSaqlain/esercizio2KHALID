@@ -8,6 +8,10 @@ table, th, td {
   border-collapse: collapse;
 }
 
+table {
+  width: 100%;
+}
+
 td {
   padding: 10px;
   text-align: left;
